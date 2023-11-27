@@ -52,7 +52,6 @@ header a {
 
 .clicked {
     border-bottom: 1px solid white;
-    border-top: 1px solid white;
 }
 
 /* Navbar style for mobile */
@@ -115,7 +114,6 @@ footer {
 
     #menu a:hover {
         border-bottom: 1px solid white;
-        border-top: 1px solid white;
     }
     
 }
