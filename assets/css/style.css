@@ -85,3 +85,27 @@ main {
 footer {
     background-color: white;
 }
+
+/* Media query: Tablets and larger devices (768px and higher) */
+@media screen and (min-width: 768px) {
+    nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+        margin-top: 1rem;
+    }
+
+    #menu > li {
+        padding-left: 2rem;
+    }
+
+    .nav-drop-label {
+        display: none;
+    }
+}
