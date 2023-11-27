@@ -37,8 +37,7 @@ header a {
 }
 
 #logo {
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    padding: 5px;
 }
 
 #menu {
