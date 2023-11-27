@@ -28,6 +28,16 @@ header {
     box-shadow: 0 1px 1px #000000;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
 /* Main content styles */
 main {
     background-color: #050A30;
