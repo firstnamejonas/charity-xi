@@ -19,7 +19,12 @@ body {
 
 /* Header styles */
 header {
-    background-color: white;
+    background-color: rgba(5, 10, 48, 0.4);
+    z-index: 99;
+    position: fixed;
+    padding: 0 1rem;
+    width: 100%;
+    box-shadow: 0 1px 1px #000000;
 }
 
 /* Main content styles */
