@@ -82,6 +82,31 @@ main {
 /* Footer styles */
 footer {
     background-color:#050A30;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#social-media {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 20px 0;
+}
+
+#social-media i {
+    font-size: 170%;
+}
+
+footer > p {
+    margin: 20px 0;
+}
+
+#quote {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 /* Media query: Tablets and larger devices (768px and higher) */
