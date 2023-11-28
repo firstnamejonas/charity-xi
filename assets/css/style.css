@@ -85,8 +85,8 @@ main {
 .hero-main {
     height: 600px;
     width: 100%;
-    background: url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
-    opacity: 0.7;
+    background: rgba(5, 10, 48, 0.4) url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
+    background-blend-mode: darken;
 }
 
 /* Footer styles */
