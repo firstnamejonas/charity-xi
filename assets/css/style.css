@@ -45,7 +45,7 @@ header a {
     text-align: center;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -80,9 +80,18 @@ main {
     margin-top: 74px;
 }
 
+/* Hero Image for Home page */
+
+#hero-main {
+    height: 600px;
+    width: 100%;
+    background: url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
+    opacity: 0.7;
+}
+
 /* Footer styles */
 footer {
-    background-color:#050A30;
+    background-color: #050A30;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -100,7 +109,7 @@ footer {
     font-size: 170%;
 }
 
-footer > p {
+footer>p {
     margin: 20px 0;
 }
 
@@ -113,11 +122,11 @@ footer > p {
 /* Media query: Tablets and larger devices (768px and higher) */
 @media screen and (min-width: 768px) {
     nav {
-    display: block;
-    position: relative;
-    box-shadow: none;
-    width: fit-content;
-    padding-right: 1rem;
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
     }
 
     #menu {
@@ -125,7 +134,7 @@ footer > p {
         margin-top: 1rem;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 2rem;
     }
 
@@ -140,5 +149,5 @@ footer > p {
     #menu a:hover {
         border-bottom: 1px solid white;
     }
-    
+
 }
