@@ -87,6 +87,35 @@ main {
     width: 100%;
     background: rgba(5, 10, 48, 0.4) url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
     background-blend-mode: darken;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cover-text {
+    width: 90%;
+    text-align: center;
+}
+
+.cover-text>h1,
+p {
+    margin: 30px 0;
+}
+
+.cover-text>h1 {
+    font-size: 210%;
+}
+
+.cover-text>button {
+    margin: 20px 20px;
+    height: 60px;
+    width: 150px;
+    padding: 5px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
 }
 
 /* Footer styles */
