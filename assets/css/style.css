@@ -82,7 +82,7 @@ main {
 
 /* Hero Image for Home page */
 .hero-main {
-    height: 600px;
+    height: 100vh;
     width: 100%;
     background: rgba(5, 10, 48, 0.4) url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
     background-blend-mode: darken;
@@ -143,7 +143,7 @@ p {
 
 /*Location of Event Section*/
 #wembley {
-    height: 600px;
+    height: 100vh;
     width: 100%;
     background: rgba(5, 10, 48, 0.4) url("../images/wembley_stadion_london.webp") no-repeat center center / cover;
     background-blend-mode: darken;
