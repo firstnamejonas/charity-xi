@@ -141,6 +141,18 @@ p {
     border-radius: 10px;
 }
 
+/*Location of Event Section*/
+#wembley {
+    height: 600px;
+    width: 100%;
+    background: rgba(5, 10, 48, 0.4) url("../images/wembley_stadion_london.webp") no-repeat center center / cover;
+    background-blend-mode: darken;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 /* Footer styles */
 footer {
     background-color: #050A30;
