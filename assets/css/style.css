@@ -82,7 +82,7 @@ main {
 
 /* Hero Image for Home page */
 
-#hero-main {
+.hero-main {
     height: 600px;
     width: 100%;
     background: url("../images/picture_wembley_stadium.jpg") no-repeat center center / cover;
