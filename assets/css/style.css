@@ -164,6 +164,17 @@ hr {
 #wembley > p {
     text-align: center;
     width: 80%;
+    line-height: 1.3rem;
+}
+
+#wembley > h1 {
+    font-size: 210%;
+    text-align: center;
+    margin: 30px;
+}
+
+#wembley > h2 {
+    text-align: center;
 }
 
 /* Footer styles */
