@@ -81,7 +81,6 @@ main {
 }
 
 /* Hero Image for Home page */
-
 .hero-main {
     height: 600px;
     width: 100%;
@@ -93,6 +92,7 @@ main {
     flex-direction: column;
 }
 
+/* Cover-Text for Hero Section */
 .cover-text {
     width: 90%;
     text-align: center;
@@ -116,6 +116,29 @@ p {
     border: 2px solid white;
     border-radius: 10px;
     color: white;
+}
+
+/*About Us section*/
+.about-us {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#video {
+    width: 90%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#video > video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
 
 /* Footer styles */
