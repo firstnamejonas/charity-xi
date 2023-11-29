@@ -185,6 +185,14 @@ hr {
     text-align: center;
 }
 
+#premier-league-xi {
+    width: 90%;
+}
+
+#world-xi {
+    width: 90%;
+}
+
 .player-details {
     width: 100%;
     display: flex;
