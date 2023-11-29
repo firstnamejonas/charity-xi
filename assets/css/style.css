@@ -92,6 +92,11 @@ main {
     flex-direction: column;
 }
 
+/* Hero Image for Teams page */
+#hero-section-teams {
+    background: rgba(5, 10, 48, 0.7) url("../images/charityxi_picture_teams_hero.svg") no-repeat center center / cover;
+}
+
 /* Cover-Text for Hero Section */
 .cover-text {
     width: 90%;
