@@ -161,33 +161,6 @@ hr {
     flex-direction: column;
 }
 
-#wembley > p {
-    text-align: center;
-    width: 80%;
-    line-height: 1.3rem;
-}
-
-#wembley > h1 {
-    font-size: 210%;
-    text-align: center;
-    margin: 30px;
-}
-
-#wembley > h2 {
-    text-align: center;
-}
-
-#wembley > button {
-    margin: 20px 20px;
-    height: 60px;
-    width: 150px;
-    padding: 5px;
-    background-color: transparent;
-    border: 2px solid white;
-    border-radius: 10px;
-    color: white;
-}
-
 /* Footer styles */
 footer {
     background-color: #050A30;
@@ -251,13 +224,6 @@ footer>p {
     }
 
     .cover-text>button:hover {
-        background-color: white;
-        border: 2px solid white;
-        border-radius: 10px;
-        color: #050A30;
-    }
-
-    #wembley>button:hover {
         background-color: white;
         border: 2px solid white;
         border-radius: 10px;
