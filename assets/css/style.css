@@ -274,6 +274,26 @@ footer>p {
     .nav-drop-label {
         display: none;
     }
+
+    /* Make teams-section responsive */
+
+    #teams-presentation {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        flex-direction: row;
+    }
+
+    #premier-league-xi{
+        order: -1;
+    }
+
+    #teams-presentation>h1{
+        border: 2px solid white;
+        border-radius: 10px;
+        padding: 10px;
+    }
 }
 
 /* Media query: Laptops and Desktops (992px and higher) */
