@@ -190,6 +190,7 @@ hr {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 20px
 }
 
 .players {
@@ -202,8 +203,7 @@ hr {
 
 details {
     height: auto;
-    width: auto;
-    max-width: 70%;
+    width: 100%;
     padding: 10px;
     background-color: transparent;
     border: 2px solid white;
