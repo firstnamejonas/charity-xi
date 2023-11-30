@@ -97,6 +97,10 @@ main {
     background: rgba(5, 10, 48, 0.7) url("../images/charityxi_picture_teams_hero.svg") no-repeat center center / cover;
 }
 
+#hero-section-tickets {
+    background: rgba(5, 10, 48, 0.8) url("../images/hero_image_tickets.svg") no-repeat center center / cover;
+}
+
 /* Cover-Text for Hero Section */
 .cover-text {
     width: 90%;
