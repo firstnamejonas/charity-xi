@@ -49,10 +49,48 @@
                     aria-label="Click the button to get to the teams site (Switch to another page)">Meet the Teams</button>
             </div>
         </section>
+
         <!--Tickets Form Section-->
         <section class="about-us">
             <h1>Be the first to know!</h1>
             <p>By filling out the form below you'll guarantee yourself a spot in the Early Bird Tickets Sale phase!</p>
+            <form id="tickets-form" action="https://formdump.codeinstitute.net" method="POST">
+                <label for="first_name">First Name:</label>
+                <input type="text" name="first_name" id="first_name" required>
+                <label for="last_name">Last Name:</label>
+                <input type="text" name="last_name" id="last_name">
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" required>
+                <label for="favorite_player">Select your favorite player:</label>
+                <select name="favorite_player" id="favorite_player" required>
+                    <option value="" disabled selected hidden>Choose a player</option>
+                    <option value="ederson">Ederson</option>
+                    <option value="walker">Walker</option>
+                    <option value="gabriel">Gabriel</option>
+                    <option value="saliba">Saliba</option>
+                    <option value="arnold">Alexander-Arnold</option>
+                    <option value="debruyne">DeBruyne</option>
+                    <option value="odegaard">Ødegaard</option>
+                    <option value="salah">Salah</option>
+                    <option value="grealish">Grealish</option>
+                    <option value="saka">Saka</option>
+                    <option value="haaland">Haaland</option>
+                    <option value="neuer">Neuer</option>
+                    <option value="kimmich">Kimmich</option>
+                    <option value="ramos">Ramos</option>
+                    <option value="ruediger">Rüdiger</option>
+                    <option value="davies">Davies</option>
+                    <option value="modric">Modric</option>
+                    <option value="bellingham">Bellingham</option>
+                    <option value="sane">Sané</option>
+                    <option value="mbappe">Mbappé</option>
+                    <option value="messi">Messi</option>
+                    <option value="ronaldo">Ronaldo</option>
+                </select>
+                <button type="submit">We'll see you in 2024!</button>
+            </form>
+        </section>
+
     </main>
 
     <!--Footer-->
