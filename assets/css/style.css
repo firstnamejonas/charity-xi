@@ -223,6 +223,22 @@ details {
     border-radius: 10px;
     color: white;
 }
+#tickets-section {
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#tickets-section>h1 {
+    text-align: center;
+}
+
+#tickets-section>p {
+    text-align: center;
+}
 
 /* Footer styles */
 footer {
