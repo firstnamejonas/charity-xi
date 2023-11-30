@@ -18,6 +18,18 @@ body {
     background-color: #050A30;
 }
 
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* Header styles */
 header {
     background-color: rgba(5, 10, 48, 0.4);
@@ -97,6 +109,7 @@ main {
     background: rgba(5, 10, 48, 0.7) url("../images/charityxi_picture_teams_hero.svg") no-repeat center center / cover;
 }
 
+/* Hero Image for Tickets page */
 #hero-section-tickets {
     background: rgba(5, 10, 48, 0.8) url("../images/hero_image_tickets.svg") no-repeat center center / cover;
 }
@@ -111,10 +124,6 @@ main {
 p,
 h2 {
     margin: 30px 0;
-}
-
-.cover-text>h1 {
-    font-size: 210%;
 }
 
 a>button {
@@ -162,7 +171,7 @@ hr {
 
 /*Location of Event Section*/
 #wembley {
-    height: 100vh;
+    height: auto;
     width: 100%;
     background: rgba(5, 10, 48, 0.7) url("../images/wembley_stadion_london.webp") no-repeat center center / cover;
     background-blend-mode: darken;
@@ -182,7 +191,7 @@ hr {
     width: 90%;
 }
 
-#teams-presentation > h1 {
+#heading-lineup {
     text-align: center;
 }
 
@@ -347,7 +356,7 @@ footer>p {
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 20px;
+        gap: 30px;
         flex-direction: row;
     }
 
@@ -355,12 +364,28 @@ footer>p {
         order: -1;
     }
 
-    #teams-presentation>h1{
+    #heading-lineup {
         border: 2px solid white;
         border-radius: 10px;
         padding: 10px;
         background-color: white;
         color: #050A30;
+    }
+
+    #wembley {
+        height: 100vh;
+    }
+
+    h1 {
+        font-size: 48px;
+    }
+    
+    h2 {
+        font-size: 36px;
+    }
+    
+    p {
+        font-size: 18px;
     }
 }
 
