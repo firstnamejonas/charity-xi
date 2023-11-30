@@ -223,6 +223,8 @@ details {
     border-radius: 10px;
     color: white;
 }
+
+/* Tickets form Section */
 #tickets-section {
     width: 90%;
     height: auto;
@@ -238,6 +240,49 @@ details {
 
 #tickets-section>p {
     text-align: center;
+}
+
+form {
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+form>input{
+    margin-bottom: 10px;
+    width: 90%;
+    height: 30px;
+    border: 2px solid white;
+    background: transparent;
+    border-radius: 10px;
+    color: white;
+    padding:5px;
+}
+
+form>select{
+    margin-bottom: 10px;
+    width: 90%;
+    height: 30px;
+    border: 2px solid white;
+    background: transparent;
+    border-radius: 10px;
+    color: white;
+}
+
+form>button{
+    height: 30px;
+    width: 90%;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: #050A30;
 }
 
 /* Footer styles */
