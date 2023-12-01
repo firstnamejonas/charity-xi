@@ -130,17 +130,20 @@ h2 {
     margin: 30px 0;
 }
 
-a>button {
+a.button {
     margin: 20px 20px;
-    height: 60px;
-    width: 150px;
-    padding: 5px;
+    padding: 1em 4em;
     background-color: transparent;
     border: 2px solid white;
     border-radius: 10px;
     color: white;
     font-size: 16px;
     cursor: pointer;
+    text-decoration: none;
+}
+
+i {
+    color: white;
 }
 
 /*About Us section*/
