@@ -305,6 +305,10 @@ form>button{
     color: #050A30;
 }
 
+option {
+    color:#050A30;
+}
+
 /* Footer styles */
 footer {
     background-color: #050A30;
