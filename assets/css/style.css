@@ -115,6 +115,11 @@ main {
     background: rgba(5, 10, 48, 0.8) url("../images/hero_image_tickets-min.svg") no-repeat center center / cover;
 }
 
+/* Hero Image for Confirmation page */
+#hero-section-confirmation {
+    background: rgba(5, 10, 48, 0.8) url("../images/wembley_confirmation.webp") no-repeat center center / cover;
+}
+
 /* Cover-Text for Hero Section */
 .cover-text {
     width: 90%;
