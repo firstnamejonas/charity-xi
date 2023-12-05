@@ -107,12 +107,12 @@ main {
 
 /* Hero Image for Teams page */
 #hero-section-teams {
-    background: rgba(5, 10, 48, 0.7) url("../images/charityxi_picture_teams_hero.svg") no-repeat center center / cover;
+    background: rgba(5, 10, 48, 0.7) url("../images/charityxi_picture_teams_hero-min.svg") no-repeat center center / cover;
 }
 
 /* Hero Image for Tickets page */
 #hero-section-tickets {
-    background: rgba(5, 10, 48, 0.8) url("../images/hero_image_tickets.svg") no-repeat center center / cover;
+    background: rgba(5, 10, 48, 0.8) url("../images/hero_image_tickets-min.svg") no-repeat center center / cover;
 }
 
 /* Cover-Text for Hero Section */
