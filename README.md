@@ -241,6 +241,7 @@ There were no differences found.
 | [Canva](https://www.canva.com) | entire site | image | logo on all pages |
 | [Wembley Stadium](https://www.wembleystadium.com/about/sustainability) | home page | image | hero image background |
 | [Sportschau](https://www.sportschau.de/fussball/frauen-em/wembley-stadion-london-100.html) | home page | image | image background wembley-section |
+| [National Geographic](https://www.nationalgeographic.co.uk/history-and-civilisation/2017/11/how-global-football-began-with-a-0-0-draw) | confirmation page | image | hero image background |
 | [Canva](https://www.canva.com) | tickets page | image | hero image background |
 | [Canva](https://www.canva.com) | teams page | image | hero image background |
 | [Canva](https://www.canva.com) | home page | video | video in about us section |
