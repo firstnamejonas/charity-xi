@@ -56,10 +56,10 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-home.png) | Lower performance due to large images |
-| Teams | ![screenshot](documentation/lighthouse-teams.png) | Slow response time due to large images |
-| Tickets | ![screenshot](documentation/lighthouse-tickets.png) | Slow response time due to large images |
-| Confirmation | ![screenshot](documentation/lighthouse-confirmation.png) | Some minor warnings due to large images |
+| Home | ![screenshot](documentation/lighthouse-home.png) | Lower performance due to video file and logo|
+| Teams | ![screenshot](documentation/lighthouse-teams.png) | Low performance score due to large images |
+| Tickets | ![screenshot](documentation/lighthouse-tickets.png) | Low performance score due to large images |
+| Confirmation | ![screenshot](documentation/lighthouse-confirmation.png) | Lower accessibility due to auto refresh of the page |
 
 
 ## User Story Testing
@@ -72,14 +72,14 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a returning site user, I would like to show the information to family and / or friends, so that I can convince them to buy tickets with me. | The Website as a whole functions as a presantation tool for this case |
 
 
-## Bugs
+## Bugs / Fails
 
 - Bad performance due to slow response time because of large images“
 
     ![screenshot](documentation/lighthouse-teams.png)
     ![screenshot](documentation/lighthouse-tickets.png)
 
-- To fix this, I changed my hero images from .svg to .png
+- To get a higher score for performance, I changed my hero images from .svg to .png
 
     ![screenshot](documentation/lighthouse-teams-fixed.png)
     ![screenshot](documentation/lighthouse-tickets-fixed.png)
