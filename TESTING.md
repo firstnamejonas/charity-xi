@@ -56,10 +56,10 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-home.png) | Lower performance due to video file and logo|
-| Teams | ![screenshot](documentation/lighthouse-teams.png) | Low performance score due to large images |
-| Tickets | ![screenshot](documentation/lighthouse-tickets.png) | Low performance score due to large images |
-| Confirmation | ![screenshot](documentation/lighthouse-confirmation.png) | Lower accessibility due to auto refresh of the page |
+| Home | ![screenshot](documentation/lighthouse-home.png) | ![screenshot](documentation/lighthouse-home-desktop.png) | Lower performance due to video file and logo|
+| Teams | ![screenshot](documentation/lighthouse-teams.png) | ![screenshot](documentation/lighthouse-teams-desktop.png) | Low performance score due to large images |
+| Tickets | ![screenshot](documentation/lighthouse-tickets.png) | ![screenshot](documentation/lighthouse-tickets-desktop.png) | Low performance score due to large images |
+| Confirmation | ![screenshot](documentation/lighthouse-confirmation.png) | ![screenshot](documentation/lighthouse-confirmation-desktop.png) | Lower accessibility due to auto refresh of the page |
 
 
 ## User Story Testing
