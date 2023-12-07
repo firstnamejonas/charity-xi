@@ -16,7 +16,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffirstnamejonas.github.io%2Fcharity-xi%2F) | ![screenshot](documentation/html-validation-home.png) | No errors or warnings to show. |
 | Teams | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffirstnamejonas.github.io%2Fcharity-xi%2Fteams.html) | ![screenshot](documentation/html-validation-teams.png) | No errors or warnings to show. |
 | Tickets | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffirstnamejonas.github.io%2Fcharity-xi%2Ftickets.html) | ![screenshot](documentation/html-validation-tickets.png) | No errors or warnings to show. |
-| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffirstnamejonas.github.io%2Fcharity-xi%2Ftickets.html) | ![screenshot](documentation/html-validation-confirmation.png) | No errors or warnings to show. |
+| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffirstnamejonas.github.io%2Fcharity-xi%2Fconfirmation.html) | ![screenshot](documentation/html-validation-confirmation.png) | No errors or warnings to show. |
 
 ### CSS
 
