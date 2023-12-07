@@ -170,6 +170,7 @@ I used those colors, because this oxford blue stands for trust and the white sta
 - [Canva](https://www.canva.com) used for images & the creating of the video on the home page.
 - [FontAwesome](https://fontawesome.com) used for icons.
 - [Gitpod](https://www.gitpod.io/) used as the IDE for this project.
+- [Git](https://git-scm.com) used for version control. (\`git add\`, \`git commit\`, \`git push\`)
 - [GitHub](https://github.com/) used as the respository for the projects code after being pushed from Gitpod.
 
 ## Testing
