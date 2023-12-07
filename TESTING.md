@@ -33,21 +33,21 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home | Teams | Tickets | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot](documentation/21.png) | ![screenshot](documentation/22.png) | ![screenshot](documentation/23.png) | ![screenshot](documentation/24.png) | Works as expected |
-| Firefox | ![screenshot](documentation/17.png) | ![screenshot](documentation/18.png) | ![screenshot](documentation/19.png) | ![screenshot](documentation/20.png) | Works as expected |
-| Safari | ![screenshot](documentation/13.png) | ![screenshot](documentation/14.png) | ![screenshot](documentation/15.png) | ![screenshot](documentation/16.png) | Works as expected |
+| Chrome | ![screenshot](documentation/browser_chrome_home.png) | ![screenshot](documentation/browser_chrome_teams.png) | ![screenshot](documentation/browser_chrome_tickets.png) | ![screenshot](documentation/browser_chrome_confirmation.png) | Works as expected |
+| Firefox | ![screenshot](documentation/browser_firefox_home.png) | ![screenshot](documentation/browser_firefox_teams.png) | ![screenshot](documentation/browser_firefox_tickets.png) | ![screenshot](documentation/browser_firefox_confirmation.png) | Works as expected |
+| Safari | ![screenshot](documentation/browser_safari_home.png) | ![screenshot](documentation/browser_safari_teams.png) | ![screenshot](documentation/browser_safari_tickets.png) | ![screenshot](documentation/browser_safari_confirmation.png) | Works as expected |
 
 
 ## Responsiveness
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Contact | etc | Notes |
+| Device | Home | Teams | Tickets | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/5.png) | ![screenshot](documentation/6.png) | ![screenshot](documentation/7.png) | ![screenshot](documentation/8.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/1.png) | ![screenshot](documentation/2.png) | ![screenshot](documentation/3.png) | ![screenshot](documentation/4.png) | Works as expected |
-| Desktop | ![screenshot](documentation/13.png) | ![screenshot](documentation/14.png) | ![screenshot](documentation/15.png) | ![screenshot](documentation/16.png) | Works as expected |
-| iPhone 13 | ![screenshot](documentation/9.png) | ![screenshot](documentation/10.png) | ![screenshot](documentation/11.png) | ![screenshot](documentation/12.png) | Works as expected |
+| Mobile (DevTools) | ![screenshot](documentation/mobile_home.png) | ![screenshot](documentation/mobile_teams.png) | ![screenshot](documentation/mobile_tickets.png) | ![screenshot](documentation/mobile_confirmation.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/tablet_home.png) | ![screenshot](documentation/tablet_teams.png) | ![screenshot](documentation/tablet_tickets.png) | ![screenshot](documentation/tablet_confirmation.png) | Works as expected |
+| Desktop | ![screenshot](documentation/browser_safari_home.png) | ![screenshot](documentation/browser_safari_teams.png) | ![screenshot](documentation/browser_safari_tickets.png) | ![screenshot](documentation/browser_safari_confirmation.png) | Works as expected |
+| iPhone 13 | ![screenshot](documentation/iphone13_home.png) | ![screenshot](documentation/iphone13_teams.png) | ![screenshot](documentation/iphone13_tickets.png) | ![screenshot](documentation/iphone13_confirmation.png) | Works as expected |
 
 
 ## Lighthouse Audit
